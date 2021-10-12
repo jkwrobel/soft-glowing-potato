@@ -6,7 +6,6 @@ import pandas as pd
 def convert_a_letter(array_of_chars):
     letter_array = []
     
-    print(array_of_chars)
     for line in array_of_chars:
         for character in line:
             if character == '-':
@@ -34,5 +33,9 @@ def read_all_letters():
             line_number = line_number + 1      
 
     letters_file.close()
+
+    letters_array = np.array(letters_array)
+    letters_array = np.reshape(letters_array, (26, 1, 16))
+ 
     return letters_array
 
