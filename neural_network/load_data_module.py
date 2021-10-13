@@ -1,6 +1,4 @@
-import numpy as np
-from numpy.core.records import array
-import pandas as pd
+from math import sqrt
 
 
 def convert_a_letter(array_of_chars):
@@ -13,7 +11,14 @@ def convert_a_letter(array_of_chars):
             elif character == '#':
                 letter_array.append(1)
     
+    letter_array = normalise_letter(letter_array)
     return letter_array
+
+
+def normalise_letter(letter_array):
+    number_of_ones = letter_array.count(1)
+    return [value / sqrt(number_of_ones) for value in letter_array]
+    
 
 def read_all_letters():
     letters_file = open("letters.txt", "r")
@@ -34,8 +39,8 @@ def read_all_letters():
 
     letters_file.close()
 
-    letters_array = np.array(letters_array)
-    letters_array = np.reshape(letters_array, (26, 1, 16))
+    #letters_array = np.array(letters_array)
+    #letters_array = np.reshape(letters_array, (26, 1, 16))
  
     return letters_array
 

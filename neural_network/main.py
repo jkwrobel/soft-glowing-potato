@@ -9,4 +9,5 @@ from load_data_module import read_all_letters
 if __name__ == "__main__":
     letter_array = read_all_letters()
 
-    print(letter_array)
+    for character in letter_array:
+        print(character)
