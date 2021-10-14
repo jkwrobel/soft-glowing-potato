@@ -28,8 +28,7 @@ def read_all_letters():
     letters_array = []
 
     for line in letters_file:
-        if line_number % 4 == 0:
-            current_letter = current_letter + line
+        if line_number % 5 == 0:
             current_letter.rstrip()
             letters_array.append(convert_a_letter(current_letter))
             current_letter = ""
