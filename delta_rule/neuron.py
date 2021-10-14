@@ -9,15 +9,11 @@ class Neuron:
         self.weight_init_upper_bound = int(config['weight_init_upper_bound'])
         self.weight_init_lower_bound = int(config['weight_init_lower_bound'])
         self.weight_count = int(config['weight_count'])
-        self.train_pattern_upper_bound = int(config['train_pattern_upper_bound'])
-        self.train_pattern_lower_bound = int(config['train_pattern_lower_bound'])
         self.train_pattern_count = int(config['train_pattern_count'])
         self.training_coefficient = float(config['training_coefficient'])
-        self.train_patterns = []
+        self.train_patterns = np.array(np.loadtxt(config['data_file'], dtype=float))[:self.train_pattern_count]
         self.weights = []
         for i in range(self.weight_count):
-            self.train_patterns.append(np.random.uniform(self.train_pattern_lower_bound, self.train_pattern_upper_bound,
-                                                         self.weight_count + 1))
             self.weights.append(rand.uniform(self.weight_init_lower_bound, self.weight_init_upper_bound))
 
     def train(self, epoch_count=1):
@@ -37,3 +33,7 @@ class Neuron:
         for train_pattern in self.train_patterns:
             error_sum += np.square(self.compute_vector(train_pattern[:len(train_pattern) - 1]) - train_pattern[-1])
         return np.sqrt(error_sum)
+
+    def print_weights(self):
+        for i in range(len(self.weights)):
+            print("Weight {}: {}".format(i, self.weights[i]))

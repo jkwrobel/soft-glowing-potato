@@ -11,5 +11,6 @@ if __name__ == '__main__':
     config.read("config.ini")
 
     neuron = Neuron(config[criterion_method_string])
-    neuron.train(50)
+    neuron.train(200)
+    neuron.print_weights()
 
