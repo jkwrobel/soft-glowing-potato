@@ -1,11 +1,11 @@
 #from network_module import Network
 #from layer_module import Layer
 #from activation_module import Activation
-from load_data_module import read_all_letters
+from load_data_module import read_all_letters, read_disturbed_letters
 from numpy import dot, array, reshape, where, amax
 
 if __name__ == "__main__":
-    letter_array = read_all_letters()    
+    letter_array = read_disturbed_letters()    
     letter_array = array(letter_array)
     letter_array = reshape(letter_array, (26, 1, 16))
 
@@ -19,7 +19,7 @@ if __name__ == "__main__":
     position_meaning = open('outputs.txt')
     output_lines = position_meaning.readlines()
 
-    files_with_results = open("results.txt", "a")
+    files_with_results = open("results_4.txt", "a")
     for output in result:
         for output_letter in output:
             for i in range(26):

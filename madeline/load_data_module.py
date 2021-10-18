@@ -41,3 +41,23 @@ def read_all_letters():
  
     return letters_array
 
+def read_disturbed_letters():
+    letters_file = open("letters_4.txt", "r")
+    line_number = 1
+    current_letter = ""
+    letters_array = []
+
+    for line in letters_file:
+        if line_number % 5 == 0:
+            current_letter.rstrip()
+            letters_array.append(convert_a_letter(current_letter))
+            current_letter = ""
+            line_number = line_number + 1
+        else:
+            current_letter = current_letter + line
+            line_number = line_number + 1      
+
+    letters_file.close()
+ 
+    return letters_array
+
