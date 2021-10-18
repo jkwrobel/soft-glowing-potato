@@ -1,0 +1,753 @@
+The value for letter A equals to: 1.0000000000000002
+The value for letter B equals to: 0.6735753140545634
+The value for letter C equals to: 0.7302967433402217
+The value for letter D equals to: 0.7302967433402217
+The value for letter E equals to: 0.6666666666666667
+The value for letter F equals to: 0.8660254037844386
+The value for letter G equals to: 0.7833494518006403
+The value for letter H equals to: 0.9128709291752771
+The value for letter I equals to: 0.639009650422694
+The value for letter J equals to: 0.7833494518006403
+The value for letter K equals to: 0.769800358919501
+The value for letter L equals to: 0.545544725589981
+The value for letter M equals to: 0.8703882797784893
+The value for letter N equals to: 0.8215838362577494
+The value for letter O equals to: 0.8333333333333335
+The value for letter P equals to: 0.9574271077563383
+The value for letter Q equals to: 0.8807048459279794
+The value for letter R equals to: 0.9166666666666669
+The value for letter S equals to: 0.8333333333333335
+The value for letter T equals to: 0.545544725589981
+The value for letter U equals to: 0.7302967433402217
+The value for letter V equals to: 0.6123724356957945
+The value for letter W equals to: 0.7833494518006403
+The value for letter X equals to: 0.6123724356957945
+The value for letter Y equals to: 0.769800358919501
+The value for letter Z equals to: 0.639009650422694
+=> NETWORK HAS RECOGNISED LETTER A
+
+
+The value for letter A equals to: 0.6735753140545634
+The value for letter B equals to: 1.0
+The value for letter C equals to: 0.6324555320336759
+The value for letter D equals to: 0.7378647873726218
+The value for letter E equals to: 0.6735753140545634
+The value for letter F equals to: 0.6666666666666666
+The value for letter G equals to: 0.7035264706814485
+The value for letter H equals to: 0.6324555320336759
+The value for letter I equals to: 0.5270462766947299
+The value for letter J equals to: 0.6030226891555273
+The value for letter K equals to: 0.4444444444444444
+The value for letter L equals to: 0.629940788348712
+The value for letter M equals to: 0.7035264706814485
+The value for letter N equals to: 0.7378647873726218
+The value for letter O equals to: 0.6735753140545634
+The value for letter P equals to: 0.7035264706814485
+The value for letter Q equals to: 0.647150228929434
+The value for letter R equals to: 0.769800358919501
+The value for letter S equals to: 0.6735753140545634
+The value for letter T equals to: 0.3779644730092272
+The value for letter U equals to: 0.6324555320336759
+The value for letter V equals to: 0.5892556509887895
+The value for letter W equals to: 0.6030226891555273
+The value for letter X equals to: 0.4714045207910316
+The value for letter Y equals to: 0.5555555555555556
+The value for letter Z equals to: 0.6324555320336759
+=> NETWORK HAS RECOGNISED LETTER B
+
+
+The value for letter A equals to: 0.7302967433402217
+The value for letter B equals to: 0.6324555320336759
+The value for letter C equals to: 1.0
+The value for letter D equals to: 0.8
+The value for letter E equals to: 0.9128709291752771
+The value for letter F equals to: 0.7378647873726218
+The value for letter G equals to: 0.9534625892455924
+The value for letter H equals to: 0.6000000000000001
+The value for letter I equals to: 0.8
+The value for letter J equals to: 0.8581163303210331
+The value for letter K equals to: 0.7378647873726218
+The value for letter L equals to: 0.8366600265340756
+The value for letter M equals to: 0.7627700713964739
+The value for letter N equals to: 0.7000000000000001
+The value for letter O equals to: 0.9128709291752771
+The value for letter P equals to: 0.6674238124719146
+The value for letter Q equals to: 0.8770580193070293
+The value for letter R equals to: 0.7302967433402217
+The value for letter S equals to: 0.8215838362577494
+The value for letter T equals to: 0.5976143046671969
+The value for letter U equals to: 0.8
+The value for letter V equals to: 0.6708203932499369
+The value for letter W equals to: 0.7627700713964739
+The value for letter X equals to: 0.4472135954999579
+The value for letter Y equals to: 0.5270462766947299
+The value for letter Z equals to: 0.8
+=> NETWORK HAS RECOGNISED LETTER C
+
+
+The value for letter A equals to: 0.7302967433402217
+The value for letter B equals to: 0.7378647873726218
+The value for letter C equals to: 0.8
+The value for letter D equals to: 1.0
+The value for letter E equals to: 0.7302967433402217
+The value for letter F equals to: 0.6324555320336759
+The value for letter G equals to: 0.8581163303210332
+The value for letter H equals to: 0.6000000000000001
+The value for letter I equals to: 0.6000000000000001
+The value for letter J equals to: 0.8581163303210331
+The value for letter K equals to: 0.5270462766947299
+The value for letter L equals to: 0.7171371656006362
+The value for letter M equals to: 0.7627700713964739
+The value for letter N equals to: 0.7000000000000001
+The value for letter O equals to: 0.9128709291752771
+The value for letter P equals to: 0.7627700713964739
+The value for letter Q equals to: 0.8770580193070293
+The value for letter R equals to: 0.8215838362577494
+The value for letter S equals to: 0.7302967433402217
+The value for letter T equals to: 0.47809144373375745
+The value for letter U equals to: 0.8
+The value for letter V equals to: 0.7826237921249264
+The value for letter W equals to: 0.7627700713964739
+The value for letter X equals to: 0.22360679774997896
+The value for letter Y equals to: 0.6324555320336759
+The value for letter Z equals to: 0.6000000000000001
+=> NETWORK HAS RECOGNISED LETTER D
+
+
+The value for letter A equals to: 0.6666666666666667
+The value for letter B equals to: 0.6735753140545634
+The value for letter C equals to: 0.9128709291752771
+The value for letter D equals to: 0.7302967433402217
+The value for letter E equals to: 1.0000000000000002
+The value for letter F equals to: 0.6735753140545634
+The value for letter G equals to: 0.8703882797784893
+The value for letter H equals to: 0.5477225575051663
+The value for letter I equals to: 0.8215838362577494
+The value for letter J equals to: 0.7833494518006403
+The value for letter K equals to: 0.769800358919501
+The value for letter L equals to: 0.7637626158259734
+The value for letter M equals to: 0.7833494518006404
+The value for letter N equals to: 0.7302967433402217
+The value for letter O equals to: 0.8333333333333335
+The value for letter P equals to: 0.6092717958449425
+The value for letter Q equals to: 0.8006407690254358
+The value for letter R equals to: 0.6666666666666669
+The value for letter S equals to: 0.7500000000000002
+The value for letter T equals to: 0.6546536707079772
+The value for letter U equals to: 0.7302967433402217
+The value for letter V equals to: 0.6123724356957945
+The value for letter W equals to: 0.6963106238227914
+The value for letter X equals to: 0.6123724356957945
+The value for letter Y equals to: 0.4811252243246881
+The value for letter Z equals to: 0.8215838362577494
+=> NETWORK HAS RECOGNISED LETTER E
+
+
+The value for letter A equals to: 0.8660254037844386
+The value for letter B equals to: 0.6666666666666666
+The value for letter C equals to: 0.7378647873726218
+The value for letter D equals to: 0.6324555320336759
+The value for letter E equals to: 0.6735753140545634
+The value for letter F equals to: 1.0
+The value for letter G equals to: 0.7035264706814485
+The value for letter H equals to: 0.7378647873726218
+The value for letter I equals to: 0.6324555320336759
+The value for letter J equals to: 0.6030226891555273
+The value for letter K equals to: 0.7777777777777777
+The value for letter L equals to: 0.5039526306789696
+The value for letter M equals to: 0.7035264706814485
+The value for letter N equals to: 0.6324555320336759
+The value for letter O equals to: 0.6735753140545634
+The value for letter P equals to: 0.9045340337332909
+The value for letter Q equals to: 0.7396002616336388
+The value for letter R equals to: 0.8660254037844386
+The value for letter S equals to: 0.769800358919501
+The value for letter T equals to: 0.629940788348712
+The value for letter U equals to: 0.5270462766947299
+The value for letter V equals to: 0.4714045207910316
+The value for letter W equals to: 0.6030226891555273
+The value for letter X equals to: 0.5892556509887895
+The value for letter Y equals to: 0.6666666666666666
+The value for letter Z equals to: 0.6324555320336759
+=> NETWORK HAS RECOGNISED LETTER F
+
+
+The value for letter A equals to: 0.7833494518006403
+The value for letter B equals to: 0.7035264706814485
+The value for letter C equals to: 0.9534625892455924
+The value for letter D equals to: 0.8581163303210332
+The value for letter E equals to: 0.8703882797784893
+The value for letter F equals to: 0.7035264706814485
+The value for letter G equals to: 1.0
+The value for letter H equals to: 0.6674238124719147
+The value for letter I equals to: 0.7627700713964739
+The value for letter J equals to: 0.9090909090909091
+The value for letter K equals to: 0.7035264706814485
+The value for letter L equals to: 0.7977240352174657
+The value for letter M equals to: 0.8181818181818181
+The value for letter N equals to: 0.7627700713964739
+The value for letter O equals to: 0.9574271077563383
+The value for letter P equals to: 0.7272727272727273
+The value for letter Q equals to: 0.9198662110077998
+The value for letter R equals to: 0.7833494518006404
+The value for letter S equals to: 0.8703882797784893
+The value for letter T equals to: 0.5698028822981898
+The value for letter U equals to: 0.8581163303210331
+The value for letter V equals to: 0.7462025072446364
+The value for letter W equals to: 0.8181818181818181
+The value for letter X equals to: 0.42640143271122083
+The value for letter Y equals to: 0.6030226891555273
+The value for letter Z equals to: 0.7627700713964739
+=> NETWORK HAS RECOGNISED LETTER G
+
+
+The value for letter A equals to: 0.9128709291752771
+The value for letter B equals to: 0.6324555320336759
+The value for letter C equals to: 0.6000000000000001
+The value for letter D equals to: 0.6000000000000001
+The value for letter E equals to: 0.5477225575051663
+The value for letter F equals to: 0.7378647873726218
+The value for letter G equals to: 0.6674238124719147
+The value for letter H equals to: 1.0
+The value for letter I equals to: 0.5
+The value for letter J equals to: 0.6674238124719147
+The value for letter K equals to: 0.7378647873726218
+The value for letter L equals to: 0.5976143046671968
+The value for letter M equals to: 0.7627700713964739
+The value for letter N equals to: 0.8
+The value for letter O equals to: 0.7302967433402217
+The value for letter P equals to: 0.8581163303210331
+The value for letter Q equals to: 0.7893522173763263
+The value for letter R equals to: 0.8215838362577494
+The value for letter S equals to: 0.7302967433402217
+The value for letter T equals to: 0.3585685828003181
+The value for letter U equals to: 0.8
+The value for letter V equals to: 0.6708203932499369
+The value for letter W equals to: 0.8581163303210331
+The value for letter X equals to: 0.6708203932499369
+The value for letter Y equals to: 0.8432740427115678
+The value for letter Z equals to: 0.5
+=> NETWORK HAS RECOGNISED LETTER H
+
+
+The value for letter A equals to: 0.639009650422694
+The value for letter B equals to: 0.5270462766947299
+The value for letter C equals to: 0.8
+The value for letter D equals to: 0.6000000000000001
+The value for letter E equals to: 0.8215838362577494
+The value for letter F equals to: 0.6324555320336759
+The value for letter G equals to: 0.7627700713964739
+The value for letter H equals to: 0.5
+The value for letter I equals to: 1.0
+The value for letter J equals to: 0.7627700713964739
+The value for letter K equals to: 0.6324555320336759
+The value for letter L equals to: 0.5976143046671969
+The value for letter M equals to: 0.5720775535473555
+The value for letter N equals to: 0.5
+The value for letter O equals to: 0.7302967433402217
+The value for letter P equals to: 0.5720775535473555
+The value for letter Q equals to: 0.7016464154456235
+The value for letter R equals to: 0.639009650422694
+The value for letter S equals to: 0.7302967433402217
+The value for letter T equals to: 0.8366600265340756
+The value for letter U equals to: 0.6000000000000001
+The value for letter V equals to: 0.4472135954999579
+The value for letter W equals to: 0.5720775535473555
+The value for letter X equals to: 0.6708203932499369
+The value for letter Y equals to: 0.4216370213557839
+The value for letter Z equals to: 0.9
+=> NETWORK HAS RECOGNISED LETTER I
+
+
+The value for letter A equals to: 0.7833494518006403
+The value for letter B equals to: 0.6030226891555273
+The value for letter C equals to: 0.8581163303210331
+The value for letter D equals to: 0.8581163303210331
+The value for letter E equals to: 0.7833494518006403
+The value for letter F equals to: 0.6030226891555273
+The value for letter G equals to: 0.9090909090909091
+The value for letter H equals to: 0.6674238124719147
+The value for letter I equals to: 0.7627700713964739
+The value for letter J equals to: 1.0
+The value for letter K equals to: 0.6030226891555273
+The value for letter L equals to: 0.6837634587578276
+The value for letter M equals to: 0.8181818181818181
+The value for letter N equals to: 0.7627700713964739
+The value for letter O equals to: 0.9574271077563383
+The value for letter P equals to: 0.7272727272727273
+The value for letter Q equals to: 0.9198662110077998
+The value for letter R equals to: 0.7833494518006403
+The value for letter S equals to: 0.7833494518006403
+The value for letter T equals to: 0.5698028822981898
+The value for letter U equals to: 0.8581163303210331
+The value for letter V equals to: 0.7462025072446364
+The value for letter W equals to: 0.8181818181818181
+The value for letter X equals to: 0.42640143271122083
+The value for letter Y equals to: 0.6030226891555273
+The value for letter Z equals to: 0.7627700713964739
+=> NETWORK HAS RECOGNISED LETTER J
+
+
+The value for letter A equals to: 0.769800358919501
+The value for letter B equals to: 0.4444444444444444
+The value for letter C equals to: 0.7378647873726218
+The value for letter D equals to: 0.5270462766947299
+The value for letter E equals to: 0.769800358919501
+The value for letter F equals to: 0.7777777777777777
+The value for letter G equals to: 0.7035264706814485
+The value for letter H equals to: 0.7378647873726218
+The value for letter I equals to: 0.6324555320336759
+The value for letter J equals to: 0.6030226891555273
+The value for letter K equals to: 1.0
+The value for letter L equals to: 0.6299407883487119
+The value for letter M equals to: 0.7035264706814485
+The value for letter N equals to: 0.6324555320336759
+The value for letter O equals to: 0.6735753140545634
+The value for letter P equals to: 0.7035264706814485
+The value for letter Q equals to: 0.7396002616336388
+The value for letter R equals to: 0.6735753140545634
+The value for letter S equals to: 0.6735753140545634
+The value for letter T equals to: 0.5039526306789696
+The value for letter U equals to: 0.6324555320336759
+The value for letter V equals to: 0.4714045207910316
+The value for letter W equals to: 0.7035264706814485
+The value for letter X equals to: 0.7071067811865475
+The value for letter Y equals to: 0.5555555555555556
+The value for letter Z equals to: 0.5270462766947299
+=> NETWORK HAS RECOGNISED LETTER K
+
+
+The value for letter A equals to: 0.545544725589981
+The value for letter B equals to: 0.629940788348712
+The value for letter C equals to: 0.8366600265340756
+The value for letter D equals to: 0.7171371656006362
+The value for letter E equals to: 0.7637626158259734
+The value for letter F equals to: 0.5039526306789696
+The value for letter G equals to: 0.7977240352174657
+The value for letter H equals to: 0.5976143046671968
+The value for letter I equals to: 0.5976143046671969
+The value for letter J equals to: 0.6837634587578276
+The value for letter K equals to: 0.6299407883487119
+The value for letter L equals to: 0.9999999999999998
+The value for letter M equals to: 0.5698028822981898
+The value for letter N equals to: 0.5976143046671968
+The value for letter O equals to: 0.7637626158259734
+The value for letter P equals to: 0.4558423058385518
+The value for letter Q equals to: 0.7337993857053428
+The value for letter R equals to: 0.545544725589981
+The value for letter S equals to: 0.6546536707079772
+The value for letter T equals to: 0.28571428571428564
+The value for letter U equals to: 0.8366600265340756
+The value for letter V equals to: 0.6681531047810608
+The value for letter W equals to: 0.7977240352174657
+The value for letter X equals to: 0.40089186286863654
+The value for letter Y equals to: 0.5039526306789696
+The value for letter Z equals to: 0.5976143046671969
+=> NETWORK HAS RECOGNISED LETTER L
+
+
+The value for letter A equals to: 0.8703882797784893
+The value for letter B equals to: 0.7035264706814485
+The value for letter C equals to: 0.7627700713964739
+The value for letter D equals to: 0.7627700713964739
+The value for letter E equals to: 0.7833494518006404
+The value for letter F equals to: 0.7035264706814485
+The value for letter G equals to: 0.8181818181818181
+The value for letter H equals to: 0.7627700713964739
+The value for letter I equals to: 0.5720775535473555
+The value for letter J equals to: 0.8181818181818181
+The value for letter K equals to: 0.7035264706814485
+The value for letter L equals to: 0.5698028822981898
+The value for letter M equals to: 1.0
+The value for letter N equals to: 0.9534625892455924
+The value for letter O equals to: 0.8703882797784893
+The value for letter P equals to: 0.8181818181818181
+The value for letter Q equals to: 0.8362420100070908
+The value for letter R equals to: 0.7833494518006403
+The value for letter S equals to: 0.6963106238227914
+The value for letter T equals to: 0.4558423058385518
+The value for letter U equals to: 0.7627700713964739
+The value for letter V equals to: 0.6396021490668312
+The value for letter W equals to: 0.7272727272727273
+The value for letter X equals to: 0.533001790889026
+The value for letter Y equals to: 0.6030226891555273
+The value for letter Z equals to: 0.6674238124719147
+=> NETWORK HAS RECOGNISED LETTER M
+
+
+The value for letter A equals to: 0.8215838362577494
+The value for letter B equals to: 0.7378647873726218
+The value for letter C equals to: 0.7000000000000001
+The value for letter D equals to: 0.7000000000000001
+The value for letter E equals to: 0.7302967433402217
+The value for letter F equals to: 0.6324555320336759
+The value for letter G equals to: 0.7627700713964739
+The value for letter H equals to: 0.8
+The value for letter I equals to: 0.5
+The value for letter J equals to: 0.7627700713964739
+The value for letter K equals to: 0.6324555320336759
+The value for letter L equals to: 0.5976143046671968
+The value for letter M equals to: 0.9534625892455924
+The value for letter N equals to: 1.0
+The value for letter O equals to: 0.8215838362577494
+The value for letter P equals to: 0.7627700713964739
+The value for letter Q equals to: 0.7893522173763263
+The value for letter R equals to: 0.7302967433402217
+The value for letter S equals to: 0.639009650422694
+The value for letter T equals to: 0.3585685828003181
+The value for letter U equals to: 0.8
+The value for letter V equals to: 0.6708203932499369
+The value for letter W equals to: 0.7627700713964739
+The value for letter X equals to: 0.5590169943749475
+The value for letter Y equals to: 0.6324555320336759
+The value for letter Z equals to: 0.6000000000000001
+=> NETWORK HAS RECOGNISED LETTER N
+
+
+The value for letter A equals to: 0.8333333333333335
+The value for letter B equals to: 0.6735753140545634
+The value for letter C equals to: 0.9128709291752771
+The value for letter D equals to: 0.9128709291752771
+The value for letter E equals to: 0.8333333333333335
+The value for letter F equals to: 0.6735753140545634
+The value for letter G equals to: 0.9574271077563383
+The value for letter H equals to: 0.7302967433402217
+The value for letter I equals to: 0.7302967433402217
+The value for letter J equals to: 0.9574271077563383
+The value for letter K equals to: 0.6735753140545634
+The value for letter L equals to: 0.7637626158259734
+The value for letter M equals to: 0.8703882797784893
+The value for letter N equals to: 0.8215838362577494
+The value for letter O equals to: 1.0000000000000002
+The value for letter P equals to: 0.7833494518006403
+The value for letter Q equals to: 0.960768922830523
+The value for letter R equals to: 0.8333333333333335
+The value for letter S equals to: 0.8333333333333335
+The value for letter T equals to: 0.545544725589981
+The value for letter U equals to: 0.9128709291752771
+The value for letter V equals to: 0.816496580927726
+The value for letter W equals to: 0.8703882797784893
+The value for letter X equals to: 0.408248290463863
+The value for letter Y equals to: 0.6735753140545634
+The value for letter Z equals to: 0.7302967433402217
+=> NETWORK HAS RECOGNISED LETTER O
+
+
+The value for letter A equals to: 0.9574271077563383
+The value for letter B equals to: 0.7035264706814485
+The value for letter C equals to: 0.6674238124719146
+The value for letter D equals to: 0.7627700713964739
+The value for letter E equals to: 0.6092717958449425
+The value for letter F equals to: 0.9045340337332909
+The value for letter G equals to: 0.7272727272727273
+The value for letter H equals to: 0.8581163303210331
+The value for letter I equals to: 0.5720775535473555
+The value for letter J equals to: 0.7272727272727273
+The value for letter K equals to: 0.7035264706814485
+The value for letter L equals to: 0.4558423058385518
+The value for letter M equals to: 0.8181818181818181
+The value for letter N equals to: 0.7627700713964739
+The value for letter O equals to: 0.7833494518006403
+The value for letter P equals to: 1.0
+The value for letter Q equals to: 0.8362420100070908
+The value for letter R equals to: 0.9574271077563383
+The value for letter S equals to: 0.7833494518006403
+The value for letter T equals to: 0.5698028822981898
+The value for letter U equals to: 0.6674238124719147
+The value for letter V equals to: 0.6396021490668312
+The value for letter W equals to: 0.7272727272727273
+The value for letter X equals to: 0.533001790889026
+The value for letter Y equals to: 0.8040302522073697
+The value for letter Z equals to: 0.5720775535473555
+=> NETWORK HAS RECOGNISED LETTER P
+
+
+The value for letter A equals to: 0.8807048459279794
+The value for letter B equals to: 0.647150228929434
+The value for letter C equals to: 0.8770580193070293
+The value for letter D equals to: 0.8770580193070293
+The value for letter E equals to: 0.8006407690254358
+The value for letter F equals to: 0.7396002616336388
+The value for letter G equals to: 0.9198662110077998
+The value for letter H equals to: 0.7893522173763263
+The value for letter I equals to: 0.7016464154456235
+The value for letter J equals to: 0.9198662110077998
+The value for letter K equals to: 0.7396002616336388
+The value for letter L equals to: 0.7337993857053428
+The value for letter M equals to: 0.8362420100070908
+The value for letter N equals to: 0.7893522173763263
+The value for letter O equals to: 0.960768922830523
+The value for letter P equals to: 0.8362420100070908
+The value for letter Q equals to: 1.0
+The value for letter R equals to: 0.8807048459279794
+The value for letter S equals to: 0.8807048459279794
+The value for letter T equals to: 0.5241424183609591
+The value for letter U equals to: 0.8770580193070293
+The value for letter V equals to: 0.7844645405527361
+The value for letter W equals to: 0.9198662110077998
+The value for letter X equals to: 0.49029033784546006
+The value for letter Y equals to: 0.7396002616336388
+The value for letter Z equals to: 0.7016464154456235
+=> NETWORK HAS RECOGNISED LETTER Q
+
+
+The value for letter A equals to: 0.9166666666666669
+The value for letter B equals to: 0.769800358919501
+The value for letter C equals to: 0.7302967433402217
+The value for letter D equals to: 0.8215838362577494
+The value for letter E equals to: 0.6666666666666669
+The value for letter F equals to: 0.8660254037844386
+The value for letter G equals to: 0.7833494518006404
+The value for letter H equals to: 0.8215838362577494
+The value for letter I equals to: 0.639009650422694
+The value for letter J equals to: 0.7833494518006403
+The value for letter K equals to: 0.6735753140545634
+The value for letter L equals to: 0.545544725589981
+The value for letter M equals to: 0.7833494518006403
+The value for letter N equals to: 0.7302967433402217
+The value for letter O equals to: 0.8333333333333335
+The value for letter P equals to: 0.9574271077563383
+The value for letter Q equals to: 0.8807048459279794
+The value for letter R equals to: 1.0000000000000002
+The value for letter S equals to: 0.8333333333333335
+The value for letter T equals to: 0.545544725589981
+The value for letter U equals to: 0.7302967433402217
+The value for letter V equals to: 0.7144345083117603
+The value for letter W equals to: 0.7833494518006404
+The value for letter X equals to: 0.5103103630798287
+The value for letter Y equals to: 0.769800358919501
+The value for letter Z equals to: 0.639009650422694
+=> NETWORK HAS RECOGNISED LETTER R
+
+
+The value for letter A equals to: 0.8333333333333335
+The value for letter B equals to: 0.6735753140545634
+The value for letter C equals to: 0.8215838362577494
+The value for letter D equals to: 0.7302967433402217
+The value for letter E equals to: 0.7500000000000002
+The value for letter F equals to: 0.769800358919501
+The value for letter G equals to: 0.8703882797784893
+The value for letter H equals to: 0.7302967433402217
+The value for letter I equals to: 0.7302967433402217
+The value for letter J equals to: 0.7833494518006403
+The value for letter K equals to: 0.6735753140545634
+The value for letter L equals to: 0.6546536707079772
+The value for letter M equals to: 0.6963106238227914
+The value for letter N equals to: 0.639009650422694
+The value for letter O equals to: 0.8333333333333335
+The value for letter P equals to: 0.7833494518006403
+The value for letter Q equals to: 0.8807048459279794
+The value for letter R equals to: 0.8333333333333335
+The value for letter S equals to: 1.0000000000000002
+The value for letter T equals to: 0.6546536707079772
+The value for letter U equals to: 0.7302967433402217
+The value for letter V equals to: 0.7144345083117603
+The value for letter W equals to: 0.7833494518006403
+The value for letter X equals to: 0.5103103630798287
+The value for letter Y equals to: 0.769800358919501
+The value for letter Z equals to: 0.7302967433402217
+=> NETWORK HAS RECOGNISED LETTER S
+
+
+The value for letter A equals to: 0.545544725589981
+The value for letter B equals to: 0.3779644730092272
+The value for letter C equals to: 0.5976143046671969
+The value for letter D equals to: 0.47809144373375745
+The value for letter E equals to: 0.6546536707079772
+The value for letter F equals to: 0.629940788348712
+The value for letter G equals to: 0.5698028822981898
+The value for letter H equals to: 0.3585685828003181
+The value for letter I equals to: 0.8366600265340756
+The value for letter J equals to: 0.5698028822981898
+The value for letter K equals to: 0.5039526306789696
+The value for letter L equals to: 0.28571428571428564
+The value for letter M equals to: 0.4558423058385518
+The value for letter N equals to: 0.3585685828003181
+The value for letter O equals to: 0.545544725589981
+The value for letter P equals to: 0.5698028822981898
+The value for letter Q equals to: 0.5241424183609591
+The value for letter R equals to: 0.545544725589981
+The value for letter S equals to: 0.6546536707079772
+The value for letter T equals to: 0.9999999999999998
+The value for letter U equals to: 0.3585685828003181
+The value for letter V equals to: 0.40089186286863654
+The value for letter W equals to: 0.3418817293789138
+The value for letter X equals to: 0.5345224838248487
+The value for letter Y equals to: 0.5039526306789696
+The value for letter Z equals to: 0.7171371656006362
+=> NETWORK HAS RECOGNISED LETTER T
+
+
+The value for letter A equals to: 0.7302967433402217
+The value for letter B equals to: 0.6324555320336759
+The value for letter C equals to: 0.8
+The value for letter D equals to: 0.8
+The value for letter E equals to: 0.7302967433402217
+The value for letter F equals to: 0.5270462766947299
+The value for letter G equals to: 0.8581163303210331
+The value for letter H equals to: 0.8
+The value for letter I equals to: 0.6000000000000001
+The value for letter J equals to: 0.8581163303210331
+The value for letter K equals to: 0.6324555320336759
+The value for letter L equals to: 0.8366600265340756
+The value for letter M equals to: 0.7627700713964739
+The value for letter N equals to: 0.8
+The value for letter O equals to: 0.9128709291752771
+The value for letter P equals to: 0.6674238124719147
+The value for letter Q equals to: 0.8770580193070293
+The value for letter R equals to: 0.7302967433402217
+The value for letter S equals to: 0.7302967433402217
+The value for letter T equals to: 0.3585685828003181
+The value for letter U equals to: 1.0
+The value for letter V equals to: 0.8944271909999159
+The value for letter W equals to: 0.9534625892455924
+The value for letter X equals to: 0.4472135954999579
+The value for letter Y equals to: 0.7378647873726218
+The value for letter Z equals to: 0.6000000000000001
+=> NETWORK HAS RECOGNISED LETTER U
+
+
+The value for letter A equals to: 0.6123724356957945
+The value for letter B equals to: 0.5892556509887895
+The value for letter C equals to: 0.6708203932499369
+The value for letter D equals to: 0.7826237921249264
+The value for letter E equals to: 0.6123724356957945
+The value for letter F equals to: 0.4714045207910316
+The value for letter G equals to: 0.7462025072446364
+The value for letter H equals to: 0.6708203932499369
+The value for letter I equals to: 0.4472135954999579
+The value for letter J equals to: 0.7462025072446364
+The value for letter K equals to: 0.4714045207910316
+The value for letter L equals to: 0.6681531047810608
+The value for letter M equals to: 0.6396021490668312
+The value for letter N equals to: 0.6708203932499369
+The value for letter O equals to: 0.816496580927726
+The value for letter P equals to: 0.6396021490668312
+The value for letter Q equals to: 0.7844645405527361
+The value for letter R equals to: 0.7144345083117603
+The value for letter S equals to: 0.7144345083117603
+The value for letter T equals to: 0.40089186286863654
+The value for letter U equals to: 0.8944271909999159
+The value for letter V equals to: 0.9999999999999998
+The value for letter W equals to: 0.8528028654224417
+The value for letter X equals to: 0.24999999999999994
+The value for letter Y equals to: 0.8249579113843053
+The value for letter Z equals to: 0.4472135954999579
+=> NETWORK HAS RECOGNISED LETTER V
+
+
+The value for letter A equals to: 0.7833494518006403
+The value for letter B equals to: 0.6030226891555273
+The value for letter C equals to: 0.7627700713964739
+The value for letter D equals to: 0.7627700713964739
+The value for letter E equals to: 0.6963106238227914
+The value for letter F equals to: 0.6030226891555273
+The value for letter G equals to: 0.8181818181818181
+The value for letter H equals to: 0.8581163303210331
+The value for letter I equals to: 0.5720775535473555
+The value for letter J equals to: 0.8181818181818181
+The value for letter K equals to: 0.7035264706814485
+The value for letter L equals to: 0.7977240352174657
+The value for letter M equals to: 0.7272727272727273
+The value for letter N equals to: 0.7627700713964739
+The value for letter O equals to: 0.8703882797784893
+The value for letter P equals to: 0.7272727272727273
+The value for letter Q equals to: 0.9198662110077998
+The value for letter R equals to: 0.7833494518006404
+The value for letter S equals to: 0.7833494518006403
+The value for letter T equals to: 0.3418817293789138
+The value for letter U equals to: 0.9534625892455924
+The value for letter V equals to: 0.8528028654224417
+The value for letter W equals to: 1.0
+The value for letter X equals to: 0.533001790889026
+The value for letter Y equals to: 0.8040302522073697
+The value for letter Z equals to: 0.5720775535473555
+=> NETWORK HAS RECOGNISED LETTER W
+
+
+The value for letter A equals to: 0.6123724356957945
+The value for letter B equals to: 0.4714045207910316
+The value for letter C equals to: 0.4472135954999579
+The value for letter D equals to: 0.22360679774997896
+The value for letter E equals to: 0.6123724356957945
+The value for letter F equals to: 0.5892556509887895
+The value for letter G equals to: 0.42640143271122083
+The value for letter H equals to: 0.6708203932499369
+The value for letter I equals to: 0.6708203932499369
+The value for letter J equals to: 0.42640143271122083
+The value for letter K equals to: 0.7071067811865475
+The value for letter L equals to: 0.40089186286863654
+The value for letter M equals to: 0.533001790889026
+The value for letter N equals to: 0.5590169943749475
+The value for letter O equals to: 0.408248290463863
+The value for letter P equals to: 0.533001790889026
+The value for letter Q equals to: 0.49029033784546006
+The value for letter R equals to: 0.5103103630798287
+The value for letter S equals to: 0.5103103630798287
+The value for letter T equals to: 0.5345224838248487
+The value for letter U equals to: 0.4472135954999579
+The value for letter V equals to: 0.24999999999999994
+The value for letter W equals to: 0.533001790889026
+The value for letter X equals to: 0.9999999999999998
+The value for letter Y equals to: 0.4714045207910316
+The value for letter Z equals to: 0.6708203932499369
+=> NETWORK HAS RECOGNISED LETTER X
+
+
+The value for letter A equals to: 0.769800358919501
+The value for letter B equals to: 0.5555555555555556
+The value for letter C equals to: 0.5270462766947299
+The value for letter D equals to: 0.6324555320336759
+The value for letter E equals to: 0.4811252243246881
+The value for letter F equals to: 0.6666666666666666
+The value for letter G equals to: 0.6030226891555273
+The value for letter H equals to: 0.8432740427115678
+The value for letter I equals to: 0.4216370213557839
+The value for letter J equals to: 0.6030226891555273
+The value for letter K equals to: 0.5555555555555556
+The value for letter L equals to: 0.5039526306789696
+The value for letter M equals to: 0.6030226891555273
+The value for letter N equals to: 0.6324555320336759
+The value for letter O equals to: 0.6735753140545634
+The value for letter P equals to: 0.8040302522073697
+The value for letter Q equals to: 0.7396002616336388
+The value for letter R equals to: 0.769800358919501
+The value for letter S equals to: 0.769800358919501
+The value for letter T equals to: 0.5039526306789696
+The value for letter U equals to: 0.7378647873726218
+The value for letter V equals to: 0.8249579113843053
+The value for letter W equals to: 0.8040302522073697
+The value for letter X equals to: 0.4714045207910316
+The value for letter Y equals to: 1.0
+The value for letter Z equals to: 0.4216370213557839
+=> NETWORK HAS RECOGNISED LETTER Y
+
+
+The value for letter A equals to: 0.639009650422694
+The value for letter B equals to: 0.6324555320336759
+The value for letter C equals to: 0.8
+The value for letter D equals to: 0.6000000000000001
+The value for letter E equals to: 0.8215838362577494
+The value for letter F equals to: 0.6324555320336759
+The value for letter G equals to: 0.7627700713964739
+The value for letter H equals to: 0.5
+The value for letter I equals to: 0.9
+The value for letter J equals to: 0.7627700713964739
+The value for letter K equals to: 0.5270462766947299
+The value for letter L equals to: 0.5976143046671969
+The value for letter M equals to: 0.6674238124719147
+The value for letter N equals to: 0.6000000000000001
+The value for letter O equals to: 0.7302967433402217
+The value for letter P equals to: 0.5720775535473555
+The value for letter Q equals to: 0.7016464154456235
+The value for letter R equals to: 0.639009650422694
+The value for letter S equals to: 0.7302967433402217
+The value for letter T equals to: 0.7171371656006362
+The value for letter U equals to: 0.6000000000000001
+The value for letter V equals to: 0.4472135954999579
+The value for letter W equals to: 0.5720775535473555
+The value for letter X equals to: 0.6708203932499369
+The value for letter Y equals to: 0.4216370213557839
+The value for letter Z equals to: 1.0
+=> NETWORK HAS RECOGNISED LETTER Z
+
