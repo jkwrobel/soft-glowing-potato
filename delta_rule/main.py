@@ -9,8 +9,8 @@ if __name__ == '__main__':
 
     config = configparser.ConfigParser()
     config.read("config.ini")
-
-    neuron = Neuron(config[criterion_method_string])
-    neuron.train(200)
+    config = config[criterion_method_string]
+    neuron = Neuron(config)
+    neuron.train(int(config['epoch_count']), float(config['target_precision']))
     neuron.print_weights()
 
