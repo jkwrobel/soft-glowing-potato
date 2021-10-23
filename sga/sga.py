@@ -31,7 +31,36 @@ class SGA:
         self.consecutive_pop_to_measure = int(config['consecutive_pop_to_measure'])
         self.consecutive_pop_minimum_change_threshold = float(config['consecutive_pop_minimum_change_threshold'])
         self.target_gen_count = int(config['target_gen_count'])
+        self.target_run_count = int(config['target_run_count'])
         self.former_population_avg_ff = []
+
+        # result memory
+        self.res_fittest_x = []
+        self.res_fittest_x_ff = []
+        self.res_last_run = []
+        self.res_last_run_ff = []
+
+    def do_entire_sga(self):
+        while self.run != self.target_run_count:
+            print('<<<<<<RUN {}>>>>>>'.format(self.run))
+            self.do_single_run()
+            self.res_fittest_x.append(self.res_last_run[np.argmax(self.this_chromosomes_fitness)])
+            self.res_fittest_x_ff.append(max(self.res_last_run_ff))
+            print('<<<<<<RUN {} END>>>>>>'.format(self.run))
+            fittest_id = np.argmax(self.this_chromosomes_fitness)
+            print("Fittest id: " + str(fittest_id))
+            fittest_chrom = self.res_last_run[fittest_id]
+            print("Fittest chromosome bin: " + str(fittest_chrom))
+            print("Fittest chromosome dec: " + str(int(''.join(map(str, fittest_chrom)), 2) / 2**self.x_digits_count * (self.range_end - self.range_start) + self.range_start))
+            self.run += 1
+
+        print('**************ALL RUNS END************')
+        fittest_id = np.argmax(self.res_fittest_x_ff)
+        print("Fittest id: " + str(fittest_id))
+        fittest_chrom = self.res_fittest_x[fittest_id]
+        print("Fittest chromosome bin: " + str(fittest_chrom))
+        print("Fittest chromosome dec: " + str(int(''.join(map(str, fittest_chrom)), 2) / 2**self.x_digits_count * (self.range_end - self.range_start) + self.range_start))
+        print("Fittest chrom ff: " + str(self.fitness_function_bin(fittest_chrom)))
 
     def do_single_run(self):
         self.create_initial_population()
@@ -65,14 +94,17 @@ class SGA:
             print("Fittest id: " + str(fittest_id))
             fittest_chrom = self.this_chromosomes[fittest_id]
             print("Fittest chromosome bin: " + str(fittest_chrom))
-            print("Fittest chromosome dec: " + str(int(''.join(map(str, fittest_chrom)), 2) / 2**self.x_digits_count))
             print("Fittest chromosome dec: " + str(int(''.join(map(str, fittest_chrom)), 2) / 2**self.x_digits_count * (self.range_end - self.range_start) + self.range_start))
             print("Fittest chrom ff: " + str(self.fitness_function_bin(fittest_chrom)))
 
+            self.res_last_run = self.this_chromosomes
+            self.res_last_run_ff = self.this_chromosomes_fitness
             self.this_chromosomes = self.next_chromosomes
             self.next_chromosomes = [[] for _ in range(self.chromosome_count)]
             self.roulette_selection_initiated = False
             self.gen += 1
+
+        self.gen = 0
 
     def check_stop_criteria(self):
         gen_count_stop = self.gen == self.target_gen_count

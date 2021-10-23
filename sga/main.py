@@ -14,4 +14,4 @@ if __name__ == '__main__':
 
     alg_instance = SGA(config)
 
-    alg_instance.do_single_run()
+    alg_instance.do_entire_sga()
