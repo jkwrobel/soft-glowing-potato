@@ -66,10 +66,12 @@ class SGA:
             fittest_chrom = self.this_chromosomes[fittest_id]
             print("Fittest chromosome bin: " + str(fittest_chrom))
             print("Fittest chromosome dec: " + str(int(''.join(map(str, fittest_chrom)), 2) / 2**self.x_digits_count))
+            print("Fittest chromosome dec: " + str(int(''.join(map(str, fittest_chrom)), 2) / 2**self.x_digits_count * (self.range_end - self.range_start) + self.range_start))
             print("Fittest chrom ff: " + str(self.fitness_function_bin(fittest_chrom)))
 
             self.this_chromosomes = self.next_chromosomes
             self.next_chromosomes = [[] for _ in range(self.chromosome_count)]
+            self.roulette_selection_initiated = False
             self.gen += 1
 
     def check_stop_criteria(self):
